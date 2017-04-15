@@ -1,0 +1,36 @@
+#  MTL File: 'gun.obj'
+# Material Count: 3
+
+newmtl Rifle
+Ns 274.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.706460 0.706460 0.706460
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:/Documents and Settings/LiNk/Desktop/A-104_Rifle/A-104_Rifle_diffuse.jpg
+map_Bump -bm 25.000000 C:/Documents and Settings/LiNk/Desktop/A-104_Rifle/A-104_Rifle_normal.jpg
+
+newmtl Wires
+Ns 347.058824
+Ka 1.000000 1.000000 1.000000
+Kd 0.151142 0.151142 0.151142
+Ks 1.178558 1.178558 1.178558
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:/Documents and Settings/LiNk/Desktop/A-104_Rifle/A-104_Rifle_diffuse.jpg
+
+newmtl screen
+Ns 419.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.204502 0.303739 0.480461
+Ks 0.316790 0.316790 0.316790
+Ke 0.321567 0.477612 0.755497
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:/Documents and Settings/LiNk/Desktop/A-104_Rifle/A-104_Rifle_diffuse.jpg
